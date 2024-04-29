@@ -1,0 +1,1 @@
+{"type":"resolve","resolvedModuleId":"ruby-3.2:v10-20240329-787bc7d","inputHash":"","resolutionPath":["ruby-3.2:v6-20240209-9e3a339","ruby-3.2:v7-20240216-98f4cde","ruby-3.2:v8-20240315-3def760","ruby-3.2:v9-20240319-38caddd","ruby-3.2:v10-20240329-787bc7d"],"error":"","Changed":true}
